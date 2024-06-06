@@ -22,9 +22,7 @@ const signup = async (req, res) => {
     $or: [{ email }] // Search for users with matching email
   });
   if (isUserExists) {
-    return res.status(409).json({
-      message: "Email is not valid" // More specific message can be used
-    });
+    return res.status(409).json("Email is not valid");// More specific message can be used
   }
 
   // Hash the password before storing it in the database

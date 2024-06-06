@@ -15,7 +15,7 @@ export default function Home() {
   useEffect(() => {
     const token = localStorage.getItem('token');
 
-    if (!token) {
+    if (!token || token.length < 20) {
       navigate("/login");
       return
     }
