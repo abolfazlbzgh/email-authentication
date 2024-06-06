@@ -2,6 +2,10 @@
 
 This project demonstrates how to implement email authentication using Node.js for the backend and React with Tailwind CSS for the frontend. It includes user registration, login, and email verification.
 
+## Screenshot
+
+!["Screenshot"](./screenshot.png)
+
 ## Features
 
 1. **ES Module Syntax**
