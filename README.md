@@ -2,6 +2,9 @@
 
 This project demonstrates how to implement email authentication using Node.js for the backend and React with Tailwind CSS for the frontend. It includes user registration, login, and email verification.
 
+For more details about this game, visit [my personal page](https://abolfazlbzgh.github.io/#/codeDetail/c24cc7c0-241b-4e0c-bfd5-81fd76ab2cac).
+
+
 ## Screenshot
 
 !["Screenshot"](./screenshot.png)
