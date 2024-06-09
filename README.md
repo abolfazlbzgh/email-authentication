@@ -6,6 +6,11 @@ This project demonstrates how to implement email authentication using Node.js fo
 
 !["Screenshot"](./screenshot.png)
 
+## Video
+
+[Video](https://github.com/abolfazlbzgh/email-authentication/raw/main/video.mp4)
+
+
 ## Features
 
 1. **ES Module Syntax**
